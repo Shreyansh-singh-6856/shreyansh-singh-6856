@@ -1,7 +1,7 @@
 # Hi there, I'm [Your Name]! 👋
 
 <p align="center">
-  <img src=https://c.tenor.com/c4cx59tZFTkAAAAC/baymax-hello.gif>
+  <img src="https://media.giphy.com/media/fXs1fCH24UwFU/giphy.gif" alt="Baymax Wave" width="500px">
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ## 🌟 Featured Projects
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2Ip2dm7FASFYWs/giphy.gif" alt="Baymax Coding" width="400px">
+  <img src="https://media.giphy.com/media/L0KZau5d45zi4bXn7i/giphy.gif" alt="Baymax Coding" width="400px">
 </p>
 
 ### [Project Name 1](https://github.com/your-username/project-name)
@@ -62,5 +62,5 @@ A short description of the project.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEdva9BUHPIs2SkGk/giphy.gif" alt="Baymax Goodbye" width="400px">
+  <img src="https://media.giphy.com/media/dZelUt8gRkSXY/giphy.gif" alt="Baymax Goodbye" width="400px">
 </p>
