@@ -1,8 +1,10 @@
 # Hi there, I'm [Your Name]! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="Welcome GIF" width="600px">
+  <img src="https://media.giphy.com/media/3o7TKP9lntrBX8A67C/giphy.gif" alt="Baymax Wave" width="500px">
 </p>
+
+---
 
 ## 🌟 About Me
 - 🌱 I’m currently learning **coding technologies** and exploring **open-source contributions**.
@@ -27,6 +29,10 @@
 ---
 
 ## 🌟 Featured Projects
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2Ip2dm7FASFYWs/giphy.gif" alt="Baymax Coding" width="400px">
+</p>
+
 ### [Project Name 1](https://github.com/your-username/project-name)
 A short description of the project.
 - 🔧 **Tech Stack:** Python, Flask
@@ -51,4 +57,10 @@ A short description of the project.
   <a href="https://www.linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-red?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEdva9BUHPIs2SkGk/giphy.gif" alt="Baymax Goodbye" width="400px">
 </p>
