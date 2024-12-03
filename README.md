@@ -1,7 +1,7 @@
 # Hi there, I'm [Your Name]! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP9lntrBX8A67C/giphy.gif" alt="Baymax Wave" width="500px">
+  <img src=https://c.tenor.com/c4cx59tZFTkAAAAC/baymax-hello.gif>
 </p>
 
 ---
