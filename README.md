@@ -1,56 +1,72 @@
-# 🐶 Welcome to My GitHub Profile! 🐾
+# 🕷️ Welcome to My GitHub Profile! 🕸️
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnnYUt4FCRpf9R6/giphy.gif" alt="Funny Dog Gif" width="300px" />
+  <img src="https://media.giphy.com/media/l0K4oYfLO9ckLSuQg/giphy.gif" alt="Spider-Man Gif" width="300px" />
 </p>
 
 ---
 
-## 🐕 About Me
-Hi there! I’m just a **developer** who loves **dogs** and **coding** (sometimes at the same time 🐾💻).  
-Here’s a little bit about me:
-- 🐾 **Learning**: New tricks like a curious pup! Currently working on **JavaScript** and **Python**.
-- 🐾 **Hobbies**: 
-  - Fetching bugs 🐞.
-  - Barking at bad code 🐕‍🦺.
-  - Treating myself to coffee ☕.
+## 🕷️ About Me
+Hello, I’m **Spider-Man** (or at least trying to be a superhero of code)!  
+When I'm not saving the world from villains, I'm here building projects with **HTML**, **CSS**, **JavaScript**, and **Python**.
+
+- 🕸️ **Learning**: Currently learning **React.js** and **Node.js** (Saving the web one line of code at a time).
+- 🕷️ **Superpowers**:
+  - Swinging between branches with **Git**.
+  - Debugging like I’m dodging Green Goblin's bombs 💥.
 
 ---
 
-## 🦴 My Projects
-Here are some of my "pawsome" projects:
-1. **[Doggo Detector](https://github.com/yourusername/doggo-detector)**  
-   A Python app that recognizes dog breeds from pictures.  
-   🐕 Tech Stack: Python, OpenCV, Machine Learning.
+## 🕸️ My Projects
+Here are a few of my heroic projects:
+1. **[Spider-Web Tracker](https://github.com/yourusername/spider-web-tracker)**  
+   A simple web app to track your daily tasks with a Spider-Man theme.  
+   🕷️ Tech Stack: React, CSS, Local Storage.
 
-2. **[Woof Weather App](https://github.com/yourusername/woof-weather)**  
-   Get weather updates with cute dog memes!  
-   🐾 Tech Stack: React.js, OpenWeather API.
+2. **[Spider-Social](https://github.com/yourusername/spider-social)**  
+   A social media app where you can share your latest adventures as Spider-Man.  
+   🕸️ Tech Stack: Node.js, Express, MongoDB.
 
 ---
 
-## 🐾 GitHub Stats
+## 🕷️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 ---
 
-## 🐾 Fun Fact
-I’ve never met a bug I couldn’t chase! 🐾  
+## 🕸️ Technologies I Use
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Dog Debugging" width="200px">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
 </p>
 
 ---
 
-## 🐾 Let’s Connect!
-- 🐾 **[LinkedIn](https://linkedin.com/in/yourprofile)**  
-- 🐾 **[Twitter](https://twitter.com/yourusername)**  
+## 🕷️ Let’s Connect!
+- 🕸️ **[LinkedIn](https://linkedin.com/in/yourprofile)**  
+- 🕷️ **[Twitter](https://twitter.com/yourusername)**  
+- 🕸️ **[Email](mailto:youremail@gmail.com)**
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Dog Waving Goodbye" width="300px">
+  <img src="https://media.giphy.com/media/8TQ8mseY78JXK/giphy.gif" alt="Spider-Man Swinging" width="300px">
 </p>
+
+---
+
+### **GitHub Logo:**
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" alt="GitHub Logo">
+</p>
+
+---
+
+## 🕷️ Let's Build the Web Together!
+Because with great power comes great responsibility... to code!
 
