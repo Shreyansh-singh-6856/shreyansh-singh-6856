@@ -14,6 +14,7 @@ Here are the technologies I love:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFEA00?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
 
 ## 🌱 Current Project:
 
