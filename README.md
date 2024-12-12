@@ -1,32 +1,15 @@
-# Hello, I'm Your Name 👋
+<h1 align="center">Hi 👋, I'm Shreyansh singh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Welcome to my GitHub profile! I’m a developer passionate about learning new technologies and building amazing projects. Here are some fun facts about me!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh-singh-6856&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh-singh-6856" /> </p>
 
-## 🐱 Cute Animations:
+- 🌱 I’m currently learning **c and c++**
 
-Here’s a cute animation of a cat to brighten your day!
+- 📫 How to reach me **stremerboys6856@gmail.com**
 
-![Cute Cat](https://media.giphy.com/media/3o6fJ9d2o5wzOUc57q/giphy.gif)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🚀 My Tech Stack:
-
-Here are the technologies I love:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFEA00?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
-
-## 🌱 Current Project:
-
-I’m currently working on a **AI Project**! Check out my repository:
-
-[Your Project Link](https://github.com/yourusername/yourproject)
-
-## 📊 GitHub Stats:
-
-![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
-
-## 🏆 Visitor Count:
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepository)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
