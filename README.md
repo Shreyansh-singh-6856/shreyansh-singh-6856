@@ -1,8 +1,8 @@
 <h1 align="center">
-  Hi 👋, I'm Shreyansh Singh
-  <br />
-  <sub>**A passionate frontend developer | C & C++ enthusiast | Always learning**</sub>
+  <img src="https://yourimagehost.com/animated-typing-name.gif" alt="Typing Animation" width="500" />
 </h1>
+<sub>**A passionate frontend developer | C & C++ enthusiast | Always learning**</sub>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyansh-singh-6856&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
