@@ -1,7 +1,26 @@
 <h1 align="center">
-  <img src="https://yourimagehost.com/animated-typing-name.gif" alt="Typing Animation" width="500" />
+  <svg width="600" height="50">
+    <text x="10" y="40" font-family="Arial" font-size="30" fill="black">
+      <tspan dy="0" id="typed-text">Shreyansh Singh</tspan>
+    </text>
+  </svg>
 </h1>
-<sub>**A passionate frontend developer | C & C++ enthusiast | Always learning**</sub>
+
+<script>
+  let text = document.getElementById('typed-text');
+  let fullText = "Shreyansh Singh";
+  let index = 0;
+
+  function type() {
+    if (index < fullText.length) {
+      text.textContent += fullText.charAt(index);
+      index++;
+      setTimeout(type, 100); // Adjust typing speed here
+    }
+  }
+
+  type();
+</script>
 
 
 <p align="center">
