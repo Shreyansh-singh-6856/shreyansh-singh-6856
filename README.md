@@ -1,10 +1,8 @@
 <h1 align="center">
-  <svg width="600" height="50">
-    <text x="10" y="40" font-family="Arial" font-size="30" fill="black">
-      <tspan dy="0" id="typed-text">Shreyansh Singh</tspan>
-    </text>
-  </svg>
+  <img src="https://i.imgur.com/9CpZEDn.gif" alt="Typing Animation" width="500" />
 </h1>
+<sub>**A passionate frontend developer | C & C++ enthusiast | Always learning**</sub>
+
 
 <script>
   let text = document.getElementById('typed-text');
